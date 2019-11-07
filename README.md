@@ -24,3 +24,12 @@ Workshop Command Line Notes
 - `push`: sending local changes to remote
 - `pull`: receiving remotes changes to local
   
+## Branches
+
+- `git branch <branch name>` create a new branch
+  - `checkout <branch name>` move to that branch
+  - `checkout <branch name> -b` create and move to branch
+- `git branch -a` see what branches we have
+- `git log --oneline --decorate --graph --all` all of the changes / branches
+
+
