@@ -11,4 +11,7 @@
   - `log --oneline`: one line of your history
 
 - `ssh-keygen`: to create ssh keys
-  - `cd ~/.ssh` and copy the `ids_rsa.pub` file
+  - `cd ~/.ssh` and copy the `ids_rsa.pub` file (look for online education)
+  
+
+  
