@@ -13,5 +13,8 @@
 - `ssh-keygen`: to create ssh keys
   - `cd ~/.ssh` and copy the `ids_rsa.pub` file (look for online education)
   
-
+- `remote`: somewhere your git repo is stored (e.g., Github)
+  - `origin`: the default you give your remote
+- `push`: sending local changes to remote
+= `pull`: receiving remotes changes to local
   
