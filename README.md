@@ -31,6 +31,8 @@ Workshop Command Line Notes
   - `checkout <branch name> -b` create and move to branch
 - `git branch -a` see what branches we have
 - `git log --oneline --decorate --graph --all` all of the changes / branches
+- `git checkout master` (need to do this to get back to master branch)
+- `git pull original master` (need to pull down remote from pull request)
 - `git fetch --prune`:
 - `git branch -d my_branch`:
 
