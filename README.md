@@ -9,3 +9,6 @@
 - `checkout`: move your head around to different states
 - `log`: looking at all your previous messages
   - `log --oneline`: one line of your history
+
+- `ssh-keygen`: to create ssh keys
+  - `cd ~/.ssh` and copy the `ids_rsa.pub` file
