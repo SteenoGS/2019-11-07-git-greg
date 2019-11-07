@@ -31,5 +31,7 @@ Workshop Command Line Notes
   - `checkout <branch name> -b` create and move to branch
 - `git branch -a` see what branches we have
 - `git log --oneline --decorate --graph --all` all of the changes / branches
+- `git fetch --prune`:
+- `git branch -d my_branch`:
 
 
