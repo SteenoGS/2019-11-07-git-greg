@@ -41,7 +41,6 @@ Workshop Command Line Notes
 - `$ cd output/ > $ touch .gitkeep`: giving folder an empty file to make visible
 
 
-
 ## Updating history
 
 - `rebase <branch_name>`: incorporate changes in <branch_name>, for example `master` into current branch, e.g., `project_template`
@@ -52,5 +51,8 @@ You can clone something from the Git Website
 
 
 # Sabrina is COOL!!!
+
+
+
 
 
