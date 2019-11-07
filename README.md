@@ -1,4 +1,8 @@
-# Git Workshop DCR 11/2019
+# Git Workshop Notes 
+
+DCR - 11/2019
+
+## Local
 
 - `init`: initialize folder as git repository (repo)
 - `status`: see what is going on in the repo
