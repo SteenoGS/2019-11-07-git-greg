@@ -9,9 +9,3 @@
 - `checkout`: move your head around to different states
 - `log`: looking at all your previous messages
   - `log --oneline`: one line of your history
-
-
-
-
-
- 
