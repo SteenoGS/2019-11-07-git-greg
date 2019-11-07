@@ -46,7 +46,9 @@ Workshop Command Line Notes
 
 - `rebase <branch_name>`: incorporate changes in <branch_name>, for example `master` into current branch, e.g., `project_template`
   - you perform this command on the feature branch, no on the `master`
-  
+
+# Cloning
+You can clone something from the Git Website
 
 
 
