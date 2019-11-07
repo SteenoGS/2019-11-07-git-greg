@@ -1,6 +1,6 @@
 # Git Workshop DCR -- 11/2019
 
-Notes
+Workshop Command Line Notes 
 
 ## Local
 
