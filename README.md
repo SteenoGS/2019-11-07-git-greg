@@ -35,5 +35,11 @@ Workshop Command Line Notes
 - `git pull original master` (need to pull down remote from pull request)
 - `git fetch --prune`:
 - `git branch -d my_branch`:
+- `git branch -d`: delete branch that was merged
+- `git branch D`: for delete a branch that was not merged
+
+- `$ cd output/ > $ touch .gitkeep`: giving folder an empty file to make visible
+
+
 
 
