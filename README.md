@@ -16,5 +16,5 @@
 - `remote`: somewhere your git repo is stored (e.g., Github)
   - `origin`: the default you give your remote
 - `push`: sending local changes to remote
-= `pull`: receiving remotes changes to local
+- `pull`: receiving remotes changes to local
   
